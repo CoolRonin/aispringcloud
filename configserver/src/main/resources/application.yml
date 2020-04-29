@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/southwind9801/aispringcloud.git
+          uri: https://github.com/CoolRonin/aispringcloud
           searchPaths: config
           username: CoolRonin
           password: hjl2578417030

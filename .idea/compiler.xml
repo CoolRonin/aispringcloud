@@ -7,17 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="nativeconfigclient" />
+        <module name="EurekaClient" />
         <module name="EurelaServer" />
         <module name="nativeConfigServer" />
-        <module name="zull" />
-        <module name="configserver" />
         <module name="RestTemplate" />
-        <module name="feign" />
+        <module name="zipkin" />
+        <module name="zull" />
         <module name="hystrix" />
         <module name="ribbon" />
-        <module name="EurekaClient" />
+        <module name="configserver" />
         <module name="Comsumer" />
-        <module name="zipkin" />
+        <module name="feign" />
         <module name="configclient" />
       </profile>
     </annotationProcessing>
