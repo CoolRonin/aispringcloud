@@ -1,6 +1,7 @@
 spring:
   cloud:
     config:
+#      作为文件名在github中找
       name: configclient
       label: master
       discovery:
